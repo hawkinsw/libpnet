@@ -16,7 +16,6 @@
 //! X and FreeBSD, it is impossible to implement protocols which are already
 //! implemented in the kernel such as TCP and UDP.
 
-#![deny(warnings)]
 #![macro_use]
 
 extern crate libc;
